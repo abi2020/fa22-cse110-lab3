@@ -3,10 +3,20 @@ body {
   }
   h1 {
     color: #FFA500;
+    font-size: 5vh;
+    margin: auto;
   }
   h2 {
     color: hsl(0, 100%, 50%);
+    font-size: 2em;
+    margin: 25px 50px 75px 100px;
   }
   p {
     color: orange;
+    padding: 25px 50px 75px 100px;
+    font-size: 2ex;
+    margin-top: 1cm;
+    margin-bottom: 20mm;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
   }
