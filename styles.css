@@ -35,3 +35,15 @@ body {
   b:active {
     color: orange;
   }
+
+  .intro {
+    background-color: orangered;
+  }
+
+  #heading1 {
+    color: red;
+  }
+
+  *.intro {
+    color: violet;
+  }
