@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(120,81,169); /* jbackground color is blue */
+  }
+  h1 {
+    color: #FFA500;
+  }
+  h2 {
+    color: hsl(0, 100%, 50%);
+  }
+  p {
+    color: orange;
+  }
