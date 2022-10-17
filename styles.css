@@ -5,11 +5,18 @@ body {
     color: #FFA500;
     font-size: 5vh;
     margin: auto;
+    text-decoration: dashed;
+    text-align: center;
+    height: auto;
+    width: auto;
+    max-width: auto;
+    min-width: none;
   }
   h2 {
     color: hsl(0, 100%, 50%);
     font-size: 2em;
     margin: 25px 50px 75px 100px;
+    position: relative;
   }
   p {
     color: orange;
@@ -19,4 +26,12 @@ body {
     margin-bottom: 20mm;
     margin-left: 0.5in;
     margin-right: 0.5in;
+  }
+
+  b:hover {
+    color: red;
+  }
+
+  b:active {
+    color: orange;
   }
